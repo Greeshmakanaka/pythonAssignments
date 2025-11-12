@@ -1,0 +1,9 @@
+{
+  "month": "November",
+  "year": 2025,
+  "summary": {
+    "travel": 2000.0,
+    "bills": 1000.0
+  },
+  "total": 3000.0
+}

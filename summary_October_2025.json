@@ -1,0 +1,9 @@
+{
+  "month": "October",
+  "year": 2025,
+  "summary": {
+    "food": 5000.0,
+    "shopping": 3000.0
+  },
+  "total": 8000.0
+}
